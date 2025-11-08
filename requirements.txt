@@ -1,0 +1,7 @@
+numpy>=1.23
+pandas>=2.0
+matplotlib>=3.7
+seaborn>=0.13
+ipywidgets>=8.0
+jupyter>=1.0
+tzdata>=2023.3
